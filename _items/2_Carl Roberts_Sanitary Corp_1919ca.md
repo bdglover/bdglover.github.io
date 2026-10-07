@@ -1,6 +1,6 @@
 ---
 layout: item
-format: document
+format: photo
 title: "Dr. Carl Roberts Army Sanitary Core, ca. 1919"
 contributor: "Lezli Davis"
 group: "Roberts Family Historical Collection"
