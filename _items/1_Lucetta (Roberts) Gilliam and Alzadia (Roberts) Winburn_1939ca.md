@@ -1,6 +1,6 @@
 ---
 layout: item
-format: document
+format: photo
 title: "Martha Lucetta Roberts Gilliam and Alzadia Winburn Roberts, ca 1951"
 contributor: "Lezli Davis"
 group: "Roberts Family Historical Collection"
